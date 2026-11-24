@@ -7,7 +7,7 @@
     "price": 185,
     "size": "300 g",
     "desc": "Creatina monohidratada en presentación de 300 g. Consulta disponibilidad y marca en sucursal.",
-    "img": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?auto=format&fit=crop&w=1100&q=88",
     "tag": "Más buscada"
   },
   {
@@ -18,7 +18,7 @@
     "price": 285,
     "size": "500 g",
     "desc": "Presentación grande para quienes buscan un envase de mayor contenido.",
-    "img": "https://images.unsplash.com/photo-1579722821273-0f6c6d5b5f3a?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?auto=format&fit=crop&w=1100&q=88",
     "tag": "Presentación grande"
   },
   {
@@ -29,7 +29,7 @@
     "price": 220,
     "size": "300 g",
     "desc": "Opción micronizada. Revisa etiqueta, ingredientes y modo de uso del fabricante.",
-    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?auto=format&fit=crop&w=1100&q=88",
     "tag": "Micronizada"
   },
   {
@@ -40,7 +40,7 @@
     "price": 195,
     "size": "Frasco",
     "desc": "Formato en cápsulas; verifica cantidad por porción en el envase.",
-    "img": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?auto=format&fit=crop&w=1100&q=88",
     "tag": "Cápsulas"
   },
   {
@@ -51,7 +51,7 @@
     "price": 390,
     "size": "2 lb",
     "desc": "Proteína en polvo de suero. Sabores y marcas sujetos a stock.",
-    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=1100&q=88",
     "tag": "Popular"
   },
   {
@@ -62,7 +62,7 @@
     "price": 790,
     "size": "5 lb",
     "desc": "Presentación de mayor tamaño. Consulta sabores disponibles.",
-    "img": "https://images.unsplash.com/photo-1579722821273-0f6c6d5b5f3a?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=1100&q=88",
     "tag": "Ahorro por tamaño"
   },
   {
@@ -73,7 +73,7 @@
     "price": 560,
     "size": "2 lb",
     "desc": "Proteína aislada. Revisa la información nutricional y alérgenos del fabricante.",
-    "img": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=1100&q=88",
     "tag": "Aislada"
   },
   {
@@ -84,7 +84,7 @@
     "price": 430,
     "size": "6 lb",
     "desc": "Mezcla en polvo de aporte energético. Consulta la tabla nutricional del producto.",
-    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&w=1100&q=88",
     "tag": "Aporte energético"
   },
   {
@@ -95,7 +95,7 @@
     "price": 260,
     "size": "Envase",
     "desc": "Suplemento pre-entreno. Lee advertencias, cafeína y recomendaciones de la etiqueta.",
-    "img": "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1579758629938-03607ccdbaba?auto=format&fit=crop&w=1100&q=88",
     "tag": "Pre-entreno"
   },
   {
@@ -106,7 +106,7 @@
     "price": 230,
     "size": "Envase",
     "desc": "Producto de aminoácidos. Consulta ingredientes y porciones en el envase.",
-    "img": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=1100&q=88",
     "tag": "Aminoácidos"
   },
   {
@@ -117,7 +117,7 @@
     "price": 145,
     "size": "Frasco",
     "desc": "Complemento alimenticio. Verifica ingredientes, dosis y advertencias del fabricante.",
-    "img": "https://images.unsplash.com/photo-1550572017-edd951b55104?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=1100&q=88",
     "tag": "Bienestar"
   },
   {
@@ -128,7 +128,7 @@
     "price": 130,
     "size": "Frasco",
     "desc": "Vitaminas y minerales. Consulta composición y advertencias del envase.",
-    "img": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?auto=format&fit=crop&w=1100&q=88",
     "tag": "Vitaminas"
   },
   {
@@ -139,7 +139,7 @@
     "price": 55,
     "size": "600–700 ml",
     "desc": "Botella mezcladora para preparar bebidas en polvo.",
-    "img": "https://images.unsplash.com/photo-1526401485004-2aa7f3b1c8f5?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1100&q=88",
     "tag": "Accesorio"
   },
   {
@@ -150,7 +150,7 @@
     "price": 85,
     "size": "Varios tamaños",
     "desc": "Accesorio para entrenamiento. Consulta tallas disponibles.",
-    "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=85",
+    "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1100&q=88",
     "tag": "Accesorio"
   }
 ]
