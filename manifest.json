@@ -1,0 +1,15 @@
+{
+  "name": "JES FIT Suplementos",
+  "short_name": "JES FIT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071318",
+  "theme_color": "#00c8d8",
+  "icons": [
+    {
+      "src": "assets/jes-fit-logo.png",
+      "sizes": "900x900",
+      "type": "image/png"
+    }
+  ]
+}
